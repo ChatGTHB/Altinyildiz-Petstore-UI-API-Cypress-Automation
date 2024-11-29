@@ -56,7 +56,7 @@ npx cypress open
 ```
 
 ### Record Tests
-For recording tests with the Cypress Dashboard, use:
+To record tests with the Cypress Dashboard, use:
 ```bash
 npx cypress run --record --key <your-key>
 npx cypress run --record --key e500100b-c83d-432a-92b7-a854f2f81838
