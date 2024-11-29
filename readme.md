@@ -12,6 +12,9 @@ This project demonstrates end-to-end testing using [Cypress](https://www.cypress
 - Account registration
 - User actions such as creation, update, and deletion
 
+The tests are performed on the following website:
+**[https://www.altinyildizclassics.com/login](https://www.altinyildizclassics.com/login)**
+
 The primary goal is to ensure seamless user workflows and robust application testing.
 
 ---
@@ -105,7 +108,7 @@ We welcome contributions! Follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
