@@ -34,11 +34,11 @@ The goal is to ensure seamless user workflows and robust API validation.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChatGTHB/Altinyildiz_Petstore_UI_API_Cypress_Automation.git
+   git clone https://github.com/ChatGTHB/Altinyildiz-Petstore-UI-API-Cypress-Automation.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Altinyildiz_Petstore_UI_API_Cypress_Automation
+   cd Altinyildiz-Petstore-UI-API-Cypress-Automation
    ```
 3. Install dependencies using npm:
    ```bash
