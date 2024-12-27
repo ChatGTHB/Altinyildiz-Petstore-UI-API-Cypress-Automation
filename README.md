@@ -1,4 +1,4 @@
-# Altinyildiz Petstore UI & API Cypress Automation
+# Altınyıldız Petstore UI & API Cypress Automation
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,11 +34,11 @@ The goal is to ensure seamless user workflows and robust API validation.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChatGTHB/Altinyildiz-Petstore-UI-API-Cypress-Automation.git
+   git clone https://github.com/ChatGTHB/altinyildiz-petstore-ui-api-cypress-automation.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Altinyildiz-Petstore-UI-API-Cypress-Automation
+   cd altinyildiz-petstore-ui-api-cypress-automation
    ```
 3. Install dependencies using npm:
    ```bash
