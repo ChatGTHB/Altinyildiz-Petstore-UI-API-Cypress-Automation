@@ -34,7 +34,7 @@ The goal is to ensure seamless user workflows and robust API validation.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChatGTHB/altinyildiz-petstore-ui-api-cypress-automation.git
+   git clone https://github.com/cihat-kose/altinyildiz-petstore-ui-api-cypress-automation.git
    ```
 2. Navigate to the project directory:
    ```bash
